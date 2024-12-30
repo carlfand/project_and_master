@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="160mm"
+   height="71mm"
+   viewBox="0 0 160 71"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <rect
+       x="149.67094"
+       y="8.8198948"
+       width="0.4009043"
+       height="12.294398"
+       id="rect1998" />
+    <linearGradient
+       id="linearGradient1908">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop1904" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0;"
+         offset="1"
+         id="stop1906" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1096" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1090" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1093" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter890"
+       x="-0.95602363"
+       width="2.9120474"
+       y="-0.95914626"
+       height="2.9182925">
+      <feGaussianBlur
+         stdDeviation="47.751604"
+         id="feGaussianBlur892" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1096-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-9"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1096-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1096-5" />
+    </marker>
+    <radialGradient
+       xlink:href="#linearGradient1908"
+       id="radialGradient1910"
+       cx="112.48759"
+       cy="60.208572"
+       fx="112.48759"
+       fy="60.208572"
+       r="13.555598"
+       gradientTransform="matrix(0.98217874,-0.00774358,0.00763666,0.96861838,-3.1886675,-4.5629814)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer2"
+     style="display:none">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -4.7587328,35.000729 H 167.46848"
+       id="path834" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 40.309022,-5.4131942 V 78.922848"
+       id="path838" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 85.303338,-5.835 V 84.268238"
+       id="path842" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 130.2965,-5.5092653 V 77.586501"
+       id="path846" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17.796903,-5.0227512 V 76.454084"
+       id="path850" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 62.804511,-5.0883709 V 75.715614"
+       id="path854" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 107.79549,-5.2832649 V 80.044858"
+       id="path858" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 152.79828,-5.3541354 V 77.319229"
+       id="path862" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -4.9752957,14.995318 H 163.87771"
+       id="path1912" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -4.992,55.002226 H 167.27949"
+       id="path1916" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5.1513304,11.158699 H 146.30761"
+       id="path1942" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 124.6863,7.969525 V 58.311227"
+       id="path2012" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.178497,33.052716 H 92.987338"
+       id="path2056" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.9374999,7.0398065 H 95.249999"
+       id="path2144" />
+  </g>
+  <g
+     id="layer1"
+     style="display:inline">
+    <path
+       style="opacity:0.994142;fill:none;stroke:#00aeaa;stroke-width:0.511599;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.715942;filter:url(#filter890)"
+       d="m 77.342082,210.77408 c -0.555584,-0.12812 -2.260217,-0.47303 -3.788072,-0.76647 -7.009876,-1.34633 -15.798878,-5.03678 -21.969912,-9.22505 C 47.322807,197.89044 40.103477,190.82674 36.531932,186.05488 27.68417,174.23359 23.542454,157.9434 25.608339,143.09023 28.591987,121.6386 44.217347,102.18015 64.29281,94.916003 c 7.803383,-2.823595 13.5053,-3.685348 22.645721,-3.422541 9.783494,0.281297 15.288489,1.550234 23.273899,5.364777 13.26948,6.338691 22.70539,15.761101 29.01147,28.969951 16.40097,34.35387 -3.89152,75.51357 -41.423219,84.01959 -3.169035,0.71822 -18.375331,1.40671 -20.458599,0.9263 z"
+       id="path876"
+       transform="scale(0.26458333)" />
+    <circle
+       style="display:inline;opacity:0.994142;fill:#000000;fill-opacity:0.0985507;stroke:none;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.11"
+       id="path872-1"
+       cx="17.851385"
+       cy="35.02636"
+       r="16.437077" />
+    <circle
+       style="opacity:0.994142;fill:#0000ff;fill-opacity:0.692754;stroke:none;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.11"
+       id="path989"
+       cx="62.787064"
+       cy="35.023949"
+       r="16.403667" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:0.304348"
+       d="M 40.309022,-5.4131942 V 76.651056"
+       id="path991" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.221469px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 80.634854,35.002319 c 0.51829,0.01923 1.041093,-0.100638 1.499233,-0.343748 0.852687,-0.452474 1.440168,-1.304938 1.755412,-2.217314 0.315244,-0.912376 0.386334,-1.889315 0.421057,-2.853993 0.07479,-2.07784 -0.0069,-4.158786 0.06009,-6.236891 0.02541,-0.787766 0.07266,-1.578413 0.235049,-2.349679 0.162391,-0.771265 0.444263,-1.526445 0.90531,-2.165708 0.738842,-1.024438 1.938389,-1.702735 3.197086,-1.807827"
+       id="path995" />
+    <circle
+       style="display:inline;opacity:0.994142;fill:#000000;fill-opacity:0.196078;stroke:none;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path989-7"
+       cx="107.794"
+       cy="17.137711"
+       r="16.403667" />
+    <circle
+       style="display:inline;opacity:0.994142;fill:#000000;fill-opacity:0.147826;stroke:none;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path989-5"
+       cx="107.794"
+       cy="52.98595"
+       r="16.403667" />
+    <ellipse
+       style="opacity:0.994142;fill:url(#radialGradient1910);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.302672;stroke-miterlimit:4;stroke-dasharray:0.605346, 0.605346;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1855"
+       cx="107.75403"
+       cy="52.885159"
+       rx="12.419703"
+       ry="12.362874" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.264583"
+       x="51.35342"
+       y="14.232375"
+       id="text1922"><tspan
+         id="tspan2156"
+         x="51.35342"
+         y="14.232375">Quark stars</tspan><tspan
+         id="tspan2158"
+         x="51.35342"
+         y="17.760151">Two-flavour model</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.264583"
+       x="74.59597"
+       y="6.7746658"
+       id="text1930"><tspan
+         id="tspan1934"
+         x="74.59597"
+         y="6.7746658">Master's thesis</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.221469px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-4)"
+       d="m 80.634854,35.002319 c 0.51829,-0.01923 1.041093,0.100639 1.499233,0.343749 0.852687,0.452475 1.440168,1.304939 1.755412,2.217315 0.315244,0.912376 0.386334,1.889315 0.421057,2.853993 0.07479,2.07784 -0.0069,4.158786 0.06009,6.236891 0.02541,0.787766 0.07266,1.578413 0.23505,2.349678 0.16239,0.771265 0.444262,1.526444 0.905309,2.165707 0.738842,1.024438 1.938388,1.702735 3.197084,1.807828"
+       id="path995-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="124.88682"
+       y="32.261452"
+       id="text1990"><tspan
+         id="tspan2016"
+         x="124.88682"
+         y="32.261452">Hybrid stars</tspan><tspan
+         id="tspan2018"
+         x="124.88682"
+         y="35.789227" /></text>
+    <text
+       xml:space="preserve"
+       id="text1996"
+       style="font-size:10.5833px;line-height:1.25;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';white-space:pre;shape-inside:url(#rect1998);" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="124.92596"
+       y="14.375893"
+       id="text2010"><tspan
+         id="tspan2096"
+         x="124.92596"
+         y="14.375893">First-order phase transition</tspan><tspan
+         id="tspan2098"
+         x="124.92596"
+         y="17.903667">between nuclear and</tspan><tspan
+         id="tspan2100"
+         x="124.92596"
+         y="21.431442">quark matter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:0.4;stroke-width:0.264583"
+       x="124.7571"
+       y="35.821712"
+       id="text2022"><tspan
+         id="tspan2026"
+         x="124.7571"
+         y="35.821712">Nuclear matter mantle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:0.686957;stroke-width:0.264583"
+       x="124.94607"
+       y="38.940014"
+       id="text2030"><tspan
+         id="tspan2028"
+         x="124.94607"
+         y="38.940014"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:0.686957;stroke-width:0.264583">Two-flavour quark core</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="124.88808"
+       y="52.202419"
+       id="text2034"><tspan
+         id="tspan2044"
+         x="124.88808"
+         y="52.202419">Interpolating phase between</tspan><tspan
+         id="tspan2046"
+         x="124.88808"
+         y="55.730194">nuclear and quark matter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="16.819101"
+       y="35.640591"
+       id="text2050"><tspan
+         id="tspan2048"
+         x="16.819101"
+         y="35.640591"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:0.689855;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="58.462387"
+       y="35.626064"
+       id="text2054"><tspan
+         id="tspan2052"
+         x="58.462387"
+         y="35.626064"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:0.689855;stroke:none;stroke-width:0.264583;stroke-opacity:1">u, d, e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="103.69427"
+       y="17.972233"
+       id="text2054-5"><tspan
+         id="tspan2052-1"
+         x="103.69427"
+         y="17.972233"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke-width:0.264583">u, d, e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="103.62171"
+       y="53.715927"
+       id="text2054-1"><tspan
+         id="tspan2052-6"
+         x="103.62171"
+         y="53.715927"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke-width:0.264583">u, d, e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="100.79505"
+       y="26.860048"
+       id="text2110"><tspan
+         id="tspan2108"
+         x="100.79505"
+         y="26.860048"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Nuclear matter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.264583"
+       x="100.74005"
+       y="67.203735"
+       id="text2110-7"><tspan
+         id="tspan2108-3"
+         x="100.74005"
+         y="67.203735"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11667px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Nuclear matter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="101.76243"
+       y="45.233967"
+       id="text2138"><tspan
+         id="tspan2136"
+         x="101.76243"
+         y="45.233967"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Interpolation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="62.863647"
+       y="63.781311"
+       id="text2162"><tspan
+         id="tspan2160"
+         x="62.863647"
+         y="63.781311"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">(Domains not to scale)</tspan></text>
+  </g>
+  <g
+     id="layer3">
+    <circle
+       style="display:inline;opacity:0.994142;fill:#0000ff;fill-opacity:0.550725;stroke:none;stroke-width:0.151832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path989-5-7-5"
+       cx="107.7875"
+       cy="17.302216"
+       r="4.6992574" />
+    <circle
+       style="display:inline;opacity:0.994142;fill:#0000ff;fill-opacity:0.304348;stroke:none;stroke-width:0.151832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path989-5-7"
+       cx="107.7875"
+       cy="53.018459"
+       r="4.6992574" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="6.1867681"
+       y="14.206094"
+       id="text1900"><tspan
+         id="tspan1936"
+         x="6.1867681"
+         y="14.206094">Ideal neutron stars</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="9.3470879"
+       y="6.8289328"
+       id="text1940"><tspan
+         id="tspan1938"
+         x="9.3470879"
+         y="6.8289328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Project thesis</tspan></text>
+  </g>
+</svg>
